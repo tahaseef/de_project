@@ -1,0 +1,9 @@
+{
+	"name": "tahaseef-adf-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b698f299-58ee-430e-9811-3d1d7fc9709e",
+		"tenantId": "e4335c6c-9341-41db-8f06-cae3720d8f71"
+	}
+}
